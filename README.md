@@ -14,6 +14,7 @@ USAGE:
 - Navigate to a new working directory.  This is where you will initialize
 a new Vagrant project.
 - Download the required boxes (found in Vagrantfile).
+
 I.e., 'vagrant box add ADDRESS'
 - vagrant up
 
