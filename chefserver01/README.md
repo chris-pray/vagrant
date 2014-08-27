@@ -5,7 +5,9 @@ It will be bridged to an internal network adapter.
 ---
 
 Hostname: chefserver01
+
 IP Address: 10.0.0.101
+
 Subnet Mask: 255.255.0.0
 
 ---

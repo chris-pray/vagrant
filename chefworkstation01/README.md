@@ -11,7 +11,9 @@ Now you have a fully-configured Chef workstation.
 ---
 
 Hostname: chefworkstation01
+
 IP Address: 10.0.0.102
+
 Subnet Mask: 255.255.0.0
 
 ---
